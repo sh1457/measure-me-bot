@@ -13,7 +13,7 @@ coverage = "*"
 black = "==19.10b0"
 
 [packages]
-requests = "*"
+python-telegram-bot = "*"
 
 [requires]
 python_version = "3.8"
